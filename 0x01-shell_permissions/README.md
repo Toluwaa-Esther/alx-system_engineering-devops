@@ -1,1 +1,1 @@
-Shell permissiond
+Shell permissions
